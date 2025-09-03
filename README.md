@@ -1,8 +1,8 @@
 # Olá! Eu sou a Manuella Maia
 
-- 🔭 Cursando Técnico em Desenvolvimento de Sistemas  
-- 🌱 Estudando HTML,CSS e Javascript  
-- 😄 Pronouns: ela/dela
+- 🎓 Formada em Técnico de Desenvolvimento de Sistemas pelo SENAI
+- 💻 Atualmente estudando fundamentos da programação, com foco em backend
+- 🚀 Aprendendo JavaScript e Node.js
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manuella-Maia&show_icons=true&theme=dracula)
 
