@@ -8,7 +8,7 @@
 
 ## Linguagens de Programação  
 
-Aqui estão algumas linguagens que já utilizei em trabalhos do meu curso técnico. Clique em uma para ver os arquivos relacionados:
+Aqui estão algumas linguagens que já utilizei em trabalhos durante o curso técnico :
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40">](https://github.com/Manuella-Maia/repositorio-cplusplus)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40">](https://github.com/Manuella-Maia/repositorio-java)
