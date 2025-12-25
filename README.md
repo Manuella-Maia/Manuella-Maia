@@ -1,19 +1,25 @@
-# Olá! Eu sou a Manuella Maia
+# Manuella Maia
 
-- 🎓 Formada em Técnico de Desenvolvimento de Sistemas pelo SENAI
-- 💻 Atualmente estudando fundamentos da programação, com foco em backend
-- 🚀 Aprendendo JavaScript e Node.js
+🎓 Técnica em Desenvolvimento de Sistemas pelo SENAI, estudando fundamentos da programação com foco em back-end.  
+Apaixonada por lógica, organização de código e por transformar ideias em soluções através do software.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manuella-Maia&show_icons=true&theme=dracula)
+Atualmente em aprendizado contínuo de JavaScript, Node.js e desenvolvimento web, com foco em base sólida e boas práticas.
 
-## Tecnologias
+Aqui compartilho minha evolução na programação através de exercícios práticos, projetos de estudo e repositórios focados em aprendizado real.
 
-Tecnologias utilizadas em projetos e exercícios práticos:
+---
+
+## Stacks | Tecnologias
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
 </p>
+
+---
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Manuella-Maia&show_icons=true&theme=dracula)
