@@ -61,12 +61,18 @@ Aqui você encontra minha evolução na programação através de exercícios pr
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estatísticas do GitHub
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Manuella-Maia&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manuella-Maia&layout=compact&theme=tokyonight" />
-</p>
+<div align="center">
+  <a href="https://beacons.ai/devSalles">
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Manuella-Maia&theme=github_dark"/>
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Manuella-Maia&theme=github_dark"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Manuella-Maia&theme=dark"/>
+</div>
 
 ---
 
